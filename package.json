@@ -1,0 +1,17 @@
+{
+  "name": "paymentapi",
+  "version": "1.0.0",
+  "description": "payment api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "^4.11.5"
+  },
+  "author": "mann hing",
+  "license": "ISC",
+  "devDependencies": {}
+}
